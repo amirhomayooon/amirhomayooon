@@ -3,15 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhomayooon&label=Profile%20views&color=0e75b6&style=flat" alt="amirhomayooon" /> </p>
 
-- 🔭 I’m currently working on **Practical Project**
-
-- 🌱 I’m currently learning **Django**
-
-- 💬 Ask me about **Python, Django, Database**
-
 - 📫 How to reach me **amirhomayoonrefaei@gmail.com**
-
-- ⚡ fact **There Is Always A Way...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
