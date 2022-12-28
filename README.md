@@ -12,4 +12,3 @@
 [![My Skills](https://skillicons.dev/icons?i=js,py,django,flask,fastapi,selenium,linux,redis,postgres,nginx,mysql,git,docker,bash)](https://skillicons.dev)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirhomayooon&show_icons=true&theme=dark&locale=en" alt="amirhomayooon" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirhomayooon&theme=dark" alt="amirhomayooon" /></p>
