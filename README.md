@@ -12,8 +12,3 @@
 [![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi,selenium,linux,redis,postgres,nginx,mysql,git,docker,bash,js)](https://skillicons.dev)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirhomayooon&show_icons=true&theme=dark&locale=en" alt="amirhomayooon" /></p>
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/ahmubashshir/ahmubashshir/output/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
